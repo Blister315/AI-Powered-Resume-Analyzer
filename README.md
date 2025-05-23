@@ -60,8 +60,12 @@ Analyze: Click "Analyze Resume" for the latest uploaded file's analysis.
 
 Compare: Upload multiple resumes and click "Compare Resumes" to rank them by ATS score.
 
+
+
 Chat: Type in the chatbot field and click "Send".
 
 Download: Click "Download Analysis (as PDF)".
+![image](https://github.com/user-attachments/assets/2a12ce26-68d3-4053-a1e2-663eb422cc3b)
+
 
 >>>>>>> c4dbd1fe1158deaf6e0489bebfab60bbef7010a0
