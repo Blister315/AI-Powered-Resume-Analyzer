@@ -6,7 +6,7 @@ The AI Resume Analyzer is a Java Swing application that helps job seekers optimi
 
 
 
-**Features**
+**Features:**
 
 Resume Upload (PDF): Upload PDF resumes for analysis.
 
@@ -25,7 +25,7 @@ Download Analysis: Save the full report as a PDF.
 
 
 
-Technologies
+Technologies:
 
 Java Swing: For the user interface.
 
@@ -35,9 +35,9 @@ Cohere API: Powers AI analysis, grammar checks, and the chatbot.
 
 
 
-Getting Started
+Getting Started:
 
-Prerequisites
+Prerequisites:
 
 Java Development Kit (JDK) 8+
 
@@ -45,7 +45,7 @@ Apache PDFBox and JSON libraries (download JARs and add to classpath).
 
 
 
-Run
+Run:
 
 Clone the repository.
 
@@ -53,7 +53,7 @@ Compile and run using javac and java, including the PDFBox and JSON JARs in the 
 
 
 
-How to Use
+How to Use:
 
 Upload: Click "Upload Resumes (PDF)".
 
