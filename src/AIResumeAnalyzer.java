@@ -43,7 +43,7 @@ public class AIResumeAnalyzer {
     private JButton sendButton;
     private JTextArea grammarAndLanguageQualityText;
 
-    private static final String COHERE_API_KEY = "Ob6XBm3oPTbS8O92NcCPgGGsoRU1LAC1lO0C9owB";
+    private static final String COHERE_API_KEY = "your-cohere-ai-api-key";
     private static final String COHERE_API_URL = "https://api.cohere.ai/v1/generate";
     private static final String COHERE_CHAT_URL = "https://api.cohere.ai/v1/chat";
 
