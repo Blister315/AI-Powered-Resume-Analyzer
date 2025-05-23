@@ -65,7 +65,14 @@ Compare: Upload multiple resumes and click "Compare Resumes" to rank them by ATS
 Chat: Type in the chatbot field and click "Send".
 
 Download: Click "Download Analysis (as PDF)".
+
+
+Images:
 ![image](https://github.com/user-attachments/assets/2a12ce26-68d3-4053-a1e2-663eb422cc3b)
+
+
+![image](https://github.com/user-attachments/assets/e3339a0d-f69f-47e2-aafb-843471fa59f5)
+
 
 
 >>>>>>> c4dbd1fe1158deaf6e0489bebfab60bbef7010a0
