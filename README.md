@@ -1,6 +1,8 @@
 AI Resume Analyzer
 The AI Resume Analyzer is a Java Swing application that helps job seekers optimize their resumes. It uses the Cohere AI API for various analyses and includes a chatbot.
 
+
+
 Features
 
 Resume Upload (PDF): Upload PDF resumes for analysis.
@@ -17,6 +19,8 @@ Resume Comparison: Compare multiple resumes based on ATS scores.
 
 Download Analysis: Save the full report as a PDF.
 
+
+
 Technologies
 
 Java Swing: For the user interface.
@@ -24,6 +28,8 @@ Java Swing: For the user interface.
 Apache PDFBox: Extracts text from PDFs.
 
 Cohere API: Powers AI analysis, grammar checks, and the chatbot.
+
+
 
 Getting Started
 
@@ -33,11 +39,15 @@ Java Development Kit (JDK) 8+
 
 Apache PDFBox and JSON libraries (download JARs and add to classpath).
 
+
+
 Run
 
 Clone the repository.
 
 Compile and run using javac and java, including the PDFBox and JSON JARs in the classpath.
+
+
 
 How to Use
 
