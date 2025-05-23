@@ -18,19 +18,36 @@ Resume Comparison: Compare multiple resumes based on ATS scores.
 Download Analysis: Save the full report as a PDF.
 
 Technologies
+
 Java Swing: For the user interface.
+
 Apache PDFBox: Extracts text from PDFs.
+
 Cohere API: Powers AI analysis, grammar checks, and the chatbot.
+
 Getting Started
+
 Prerequisites
+
 Java Development Kit (JDK) 8+
+
 Apache PDFBox and JSON libraries (download JARs and add to classpath).
+
 Run
+
 Clone the repository.
+
 Compile and run using javac and java, including the PDFBox and JSON JARs in the classpath.
+
 How to Use
+
 Upload: Click "Upload Resumes (PDF)".
+
 Analyze: Click "Analyze Resume" for the latest uploaded file's analysis.
+
 Compare: Upload multiple resumes and click "Compare Resumes" to rank them by ATS score.
+
 Chat: Type in the chatbot field and click "Send".
+
 Download: Click "Download Analysis (as PDF)".
+
