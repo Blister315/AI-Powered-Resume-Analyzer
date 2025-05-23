@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Powered-Resume-Analyzer
 =======
 AI Resume Analyzer
